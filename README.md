@@ -68,3 +68,63 @@ Seja para falar sobre **Game Dev**, o próximo jogo do **Vasco**, ou uma nova ro
 <p align="right">
   <i>"A vida é um jogo de mundo aberto, e eu estou aqui para programar a minha melhor versão."</i> 🚀
 </p>
+
+# ⚡ Nicollas Duarte | Founder & Software Developer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=250&section=header&text=Nicollas%20Duarte&fontSize=70&subText=Building%20the%20future%20of%20Web%20%26%20Games&subFontSize=25&animation=fadeIn" width="100%" />
+</p>
+
+### 📖 Professional Overview
+I am a **Systems Analysis and Development** student at Unopar with a passion for creating high-performance digital solutions. Currently, I balance my role as an **Administrative Apprentice at Sinaf Seguros** with the leadership of **Hopeclin**, my independent game development studio.
+
+My goal is to merge corporate efficiency with creative engineering to build scalable web applications and immersive gaming experiences.
+
+---
+
+### 🛠️ Technical Stack (The Developer Side)
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Web / Full-Stack** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Game Dev** | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+| **Data & Tools** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
+
+---
+
+### 🎨 Beyond the IDE (The Human Side)
+To build great software, you need a clear mind and a strong drive. Here is what fuels me:
+
+* **🕹️ Leadership at Hopeclin:** I manage a development team focused on Unity projects. This role has taught me project management, team collaboration, and the importance of clean, maintainable code.
+* **⚽ Loyalty & Resilience:** As a lifelong **Vasco da Gama** supporter, I’ve learned to stay committed and resilient even in the toughest seasons.
+* **💪 Discipline through Calisthenics:** I practice bodyweight training daily. It reinforces the philosophy that consistent, small gains lead to massive long-term results—exactly like mastering a new framework.
+* **🎬 Storytelling:** Fans of **One Piece** and **Hunter x Hunter** will know that I value deep world-building and logical power systems, which I apply to my game design.
+
+---
+
+### 📈 Current Education & Experience
+
+- **🎓 B.S. in Systems Analysis & Development** - UNOPAR (In progress).
+- **🚀 Full-Stack Bootcamp** - Santander / DIO (Focusing on Java ecosystem).
+- **💼 Administrative Apprentice** - Sinaf Seguros (Data management & process accuracy).
+
+---
+
+### 📊 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lagg-js&show_icons=true&theme=dracula&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagg-js&layout=compact&theme=dracula" height="180" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/nicollas-duarte-7b77a6614/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nicollasborges487@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="right">
+  <i>"Transforming data into logic and logic into experiences."</i> 🚀
+</p>
