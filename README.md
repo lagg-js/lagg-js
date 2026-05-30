@@ -24,7 +24,7 @@ Não sou apenas feito de `if/else`. Aqui está o que me mantém inspirado:
 | Projeto | Status | Descrição |
 | :--- | :--- | :--- |
 | **Hopeclin Games** | 🛠️ In Development | Criando experiências imersivas com foco em C#. |
-| **Udemy** | 📚 Learning | Aprofundando em C# e Unity. |
+| **Udemy** | 📚 Learning | Aprofundando em .NET, C# e Unity. |
 | **ADS Unopar** | 🎓 Degree | Construindo a base acadêmica de sistemas. |
 
 ---
@@ -33,7 +33,7 @@ Não sou apenas feito de `if/else`. Aqui está o que me mantém inspirado:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github,vscode" />
   </a>
 </p>
 
