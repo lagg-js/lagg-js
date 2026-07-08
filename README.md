@@ -33,7 +33,7 @@ Não sou apenas feito de `if/else`. Aqui está o que me mantém inspirado:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github,vscode,js,html,css" />
   </a>
 </p>
 
