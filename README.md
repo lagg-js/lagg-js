@@ -1,24 +1,23 @@
-# Hi, I'm Nicollas 👋
+# Olá! Eu sou o Nicollas Duarte (lagg-js) 👋
 
-**Current Role:** IT Apprentice @ Sinaf Seguros (Data Automation & BI)  
-**Education:** Systems Analysis & Development @ Unopar (Expected 2028)  
-**Focus:** Building solid foundations in Front-end Engineering (HTML/CSS/JS) before moving to Full-stack.
+[![Visitas](https://komarev.com/ghpvc/?username=lagg-js&color=blueviolet)](https://github.com/lagg-js)
 
-## 🚀 Featured Project (Portfolio)
-- **[Profile Selector UI]** (Live Demo Link aqui) - A pixel-perfect, responsive Netflix-style profile selector built with pure HTML5 & CSS3 Grid. Focused on semantic markup and micro-interactions. *(Você vai colocar aqui o link do projeto que te passei assim que terminar)*
+🧑‍💻 **Sobre mim**
+- 🎯 Em transição do Call Center para o **Desenvolvimento Front-End**.
+- 🚀 Atualmente focado em **React.js**, **TypeScript** e **C#/Unity**.
+- 📚 2° período em ADS (Unopar) | Transferindo para UVA.
+- 🌎 Inglês B2 (leitura técnica) e Italiano A1 (estudando).
 
-## 🛠️ Current Tech Stack (What I'm actively using)
-- **Languages:** HTML5, CSS3, JavaScript (ES6+ - in progress)
-- **Tools:** Git, GitHub, VS Code, PowerBI, Excel
-- **Exploring:** Responsive Design, CSS Animations, DOM Manipulation
+**🛠️ Tech Stack**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 💼 Professional Experience
-- **Sinaf Seguros:** Automated Excel workflows reducing manual processing by 40%. Built KPI dashboards for management using PowerBI.
+**📌 Projetos em Destaque**
+- 🎮 [Jogo da Velha com IA](link) - Lógica em JS puro
+- 🧾 [To-Do List Pro](link) - React + LocalStorage
+- 🌐 [Portfólio Interativo](link) - Design responsivo com animações
 
-## 📚 Learning Journey
-- DIO - Logic Programming & HTML Developer (Completed)
-- DIO - CSS & JavaScript (In Progress)
-- Next Step: TypeScript & React (Q4 2026)
-
-## 📫 Connect
-https://www.linkedin.com/in/nicollas-duarte-7b77a6314/ | nicollasborges487@gmail.com
+📫 **Vamos codar juntos?** Me chama no [LinkedIn](link)!
