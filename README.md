@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 **📌 Projetos em Destaque**
-- 🎮 [Jogo da Velha com IA](link) - Lógica em JS puro
+- 🎮 [Jogo da Velha com IA](https://github.com/lagg-js/Jogo-da-Velha) - Lógica em JS puro
 - 🧾 [To-Do List Pro](link) - React + LocalStorage
 - 🌐 [Portfólio Interativo](link) - Design responsivo com animações
 
