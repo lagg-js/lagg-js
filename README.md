@@ -20,6 +20,6 @@
 **📌 Projetos em Destaque**
 - 🎮 [Jogo da Velha com IA](https://github.com/lagg-js/Jogo-da-Velha) - Lógica em JS puro
 - 🧾 [To-Do List Pro](https://github.com/lagg-js/To-Do-List-Pro-Max) - React (via CDN) + LocalStorage
-- 🌐 [Portfólio Interativo](link) - Design responsivo com animações
+- 🌐 [Portfólio Interativo](https://github.com/lagg-js/Portfolio) - Design responsivo com animações
 
-📫 **Vamos codar juntos?** Me chama no [LinkedIn](link)!
+📫 **Vamos codar juntos?** Me chama no [LinkedIn](https://www.linkedin.com/in/nicollas-duarte-7b77a6314/)!
