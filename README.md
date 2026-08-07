@@ -25,4 +25,4 @@
 - 🧾 [To-Do List Pro](https://github.com/lagg-js/To-Do-List-Pro-Max) - React (via CDN) + LocalStorage
 - 🌐 [Portfólio Interativo](https://github.com/lagg-js/Portfolio) - Design responsivo com animações
 
-📫 **Vamos codar juntos?** Me chama no [LinkedIn](https://www.linkedin.com/in/nicollas-duarte-7b77a6314/)!
+📫 **Vamos codar juntos?** Me chama no [LinkedIn](https://www.linkedin.com/in/nicollas-duarte-7b77a6314/) ou no [Discord](https://discord.com/users/724725885021847622)!
