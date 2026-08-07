@@ -3,8 +3,10 @@
 [![Visitas](https://komarev.com/ghpvc/?username=lagg-js&color=blueviolet)](https://github.com/lagg-js)
 
 🧑‍💻 **Sobre mim**
+
 - 🎯 Em transição do Call Center para o **Desenvolvimento Front-End**.
-- 🚀 Atualmente focado em **React.js**, **TypeScript** e **C#/Unity**.
+- 🚀 Atualmente focado em **React.js**, **Node.js**, **JavaScript**.
+- 🎮 Também possuo experiência com **Unity** e **C#** através de projetos de jogos.
 - 📚 2° período em ADS (Unopar) | Transferindo para UVA.
 - 🌎 Inglês B2 (leitura técnica) e Italiano A1 (estudando).
 
