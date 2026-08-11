@@ -8,7 +8,7 @@
 - 🚀 Atualmente focado em **React.js**, **Node.js**, **JavaScript**.
 - 🎮 Também possuo experiência com **Unity** e **C#** através de projetos de jogos.
 - 📚 2° período em ADS (Unopar) | Transferindo para UVA.
-- 🌎 Inglês B2 (leitura técnica) e Italiano A1 (estudando).
+- 🌎 Inglês A2 e Italiano A1 (estudando).
 
 **🛠️ Tech Stack**
 
